@@ -1,14 +1,25 @@
 # PP-SPEC-027: Proven Efficacy and the Third Axis
 
-**Status:** Draft (internal) **Author:** Craig Ellrod **Date:** [FILL AT COMMIT] **License:** CC BY-ND 4.0
+**Status:** Published **Author:** Craig Ellrod **Date:** September 18, 2026 **License:** CC BY-ND 4.0
 **Document ID:** PP-SPEC-027 **Maintained by:** Proof Economy™ Standards Alliance (PESA)
-**Specification URI:** proofprotocol.io **Repository:** [FILL AT PUBLISH]
+**Specification URI:** proofprotocol.io **Repository:** github.com/proofprotocol/proven-efficacy
 
-**Anchor:** This document is timestamped and anchored via Zenodo, DOI [INSERT DOI AT PUBLISH], as of the publication date above, establishing public priority for the efficacy-verification distinction defined here, independent of and prior to any adoption by third-party standards bodies.
+**Anchor:** This document is timestamped and anchored via Zenodo, DOI [10.5281/zenodo.22830948](https://doi.org/10.5281/zenodo.22830948), as of the publication date above, establishing public priority for the efficacy-verification distinction defined here, independent of and prior to any adoption by third-party standards bodies.
 
-⚠️ Do not fill the beacon field from memory or reuse a prior pulse. Retrieve a live pulse at https://beacon.nist.gov/beacon/2.0/pulse/last at the moment you're ready to commit this document, and paste the actual JSON response here.
+**NIST Randomness Beacon pulse, retrieved live at commit:**
 
-[PASTE LIVE NIST BEACON PULSE JSON HERE AT COMMIT TIME]
+```json
+{
+  "pulse": {
+    "uri": "https://beacon.nist.gov/beacon/2.0/chain/2/pulse/1946151",
+    "version": "2.0",
+    "chainIndex": 2,
+    "pulseIndex": 1946151,
+    "timeStamp": "2026-09-18T01:57:00.000Z",
+    "outputValue": "9D4EBEFE0CDA5E0858AB72592696583C1E82A27EFBA1A2766CA161290B4E046257B906723A085BC9D82299D4AC49EC83DBEE060E06DBEE1066080E433B811D9F"
+  }
+}
+```
 
 ---
 
@@ -63,4 +74,4 @@ This is not breach-and-attack simulation, red/blue/purple team exercises, or a b
 
 ## Provenance
 
-This document establishes public priority for the efficacy-verification axis, and for its position as a third axis distinct from and orthogonal to consistency-of-data and fidelity-at-capture, as of the date and anchor above.
+This document was first published September 18, 2026, and is anchored via Zenodo DOI [10.5281/zenodo.22830948](https://doi.org/10.5281/zenodo.22830948) and the NIST Randomness Beacon pulse recorded above (chain 2, pulse 1946151, timestamp 2026-09-18T01:57:00.000Z), together establishing public, third-party-verifiable priority for the efficacy-verification distinction and its position as a third axis, distinct from and orthogonal to consistency-of-data (PP-SPEC-006) and fidelity-at-capture (PP-SPEC-023), independent of and prior to any adoption of this distinction by third-party standards bodies. Subsequent revisions are recorded in the git commit history of the repository above, which constitutes the provenance chain for this document beyond its initial publication.
