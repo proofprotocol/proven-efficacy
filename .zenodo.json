@@ -1,0 +1,26 @@
+{
+  "title": "PP-SPEC-027: Proven Efficacy and the Third Axis",
+  "upload_type": "publication",
+  "creators": [
+    {
+      "name": "Ellrod, Craig",
+      "affiliation": "Nebulonium, Inc. (HACKERverse)"
+    }
+  ],
+  "description": "Proven Efficacy: the third axis of the Proof Protocol evidence framework",
+  "license": "cc-by-nd-4.0",
+  "access_right": "open",
+  "keywords": [
+    "proof-of-efficacy",
+    "proven-efficacy",
+    "proof-protocol"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/proofprotocol/proven-efficacy",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "publication_type": "technicalnote"
+}
