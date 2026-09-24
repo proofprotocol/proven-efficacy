@@ -8,7 +8,7 @@
 
 ## Cite as
 Ellrod, C. (2026). PP-SPEC-027: Proven Efficacy and the Third Axis.
-Proof Economy Standards Alliance. https://doi.org/10.5281/zenodo.22830948
+Proof Economy Standards Alliance. https://doi.org/10.5281/zenodo.22830947
 
 **NIST Randomness Beacon pulse, retrieved live at commit:**
 
