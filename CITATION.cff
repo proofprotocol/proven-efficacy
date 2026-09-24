@@ -7,7 +7,7 @@ authors:
     affiliation: "Nebulonium, Inc. (HACKERverse)"
 version: "1.0"
 date-released: 2026-09-18
-doi: 10.5281/zenodo.22830948
+doi: 10.5281/zenodo.22830947
 license: CC-BY-ND-4.0
 url: "https://proofprotocol.io"
 repository-code: "https://github.com/proofprotocol/proven-efficacy"
@@ -21,6 +21,6 @@ preferred-citation:
   month: 9
   publisher:
     name: "Proof Economy Standards Alliance (PESA)"
-  doi: 10.5281/zenodo.22830948
+  doi: 10.5281/zenodo.22830947
   url: "https://github.com/proofprotocol/proven-efficacy"
   license: CC-BY-ND-4.0
