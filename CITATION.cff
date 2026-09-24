@@ -11,12 +11,6 @@ doi: 10.5281/zenodo.22830948
 license: CC-BY-ND-4.0
 url: "https://proofprotocol.io"
 repository-code: "https://github.com/proofprotocol/proven-efficacy"
-keywords:
-  - proof of efficacy
-  - proven efficacy
-  - structural independence
-  - fidelity-at-capture
-  - Proof Protocol
 preferred-citation:
   type: standard
   title: "PP-SPEC-027: Proven Efficacy and the Third Axis"
