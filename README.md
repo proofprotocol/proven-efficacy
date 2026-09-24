@@ -6,6 +6,10 @@
 
 **Anchor:** This document is timestamped and anchored via Zenodo, DOI [10.5281/zenodo.22830948](https://doi.org/10.5281/zenodo.22830948), as of the publication date above, establishing public priority for the efficacy-verification distinction defined here, independent of and prior to any adoption by third-party standards bodies.
 
+## Cite as
+Ellrod, C. (2026). PP-SPEC-027: Proven Efficacy and the Third Axis.
+Proof Economy Standards Alliance. https://doi.org/10.5281/zenodo.22830948
+
 **NIST Randomness Beacon pulse, retrieved live at commit:**
 
 ```json
